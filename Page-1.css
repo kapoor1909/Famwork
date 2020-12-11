@@ -1824,5 +1824,8 @@
     margin-left: initial;
   }
 }html,body{
+	 width: 100%;
+  margin: 0px;
+  padding: auto;
 	overflow-x: hidden;
 }
