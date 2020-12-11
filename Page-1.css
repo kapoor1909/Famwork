@@ -392,12 +392,10 @@
 
   .u-section-2 .u-text-5 {
     margin-top: -175px;
-    width: auto;
   }
 
   .u-section-2 .u-text-6 {
     margin-top: 79px;
-    width: auto;
   }
 
   .u-section-2 .u-icon-1 {
@@ -1825,4 +1823,6 @@
     margin-right: initial;
     margin-left: initial;
   }
+}html,body{
+	overflow-x: hidden;
 }
