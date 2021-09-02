@@ -1,7 +1,16 @@
 .u-section-1 .u-sheet-1 {
   min-height: 530px;
 }
-
+.career{
+  text-align: right;
+}
+.u-icon{
+  padding-right: 8px;
+}
+.wfh{
+  display: flex;
+  align-items: center;
+}
 .u-section-1 .u-image-1 {
   width: 474px;
   height: 474px;
@@ -1317,7 +1326,7 @@
   font-size: 1rem;
   line-height: 25.6px;
   font-weight: normal;
-  margin: -51px 28px 0 886px;
+  margin: -40px 28px 0 886px;
 }
 
 .u-section-6 .u-line-1 {
